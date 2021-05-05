@@ -31,4 +31,4 @@ I have put all the kivyMd code in this file and this plugin can support all kivy
 
 
 
-This is a bit of kivyMd code
+This is a bit of kivyMd code.
