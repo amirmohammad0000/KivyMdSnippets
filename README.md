@@ -54,9 +54,13 @@ This is a bit of kivyMd code;
 
 
 
-############################## Installation Method ##############################
+############################## Installation Method ##############################;
+
+
 Download this file https://github.com/amirmohammad0000/KivyMd-Snippets/blob/main/PyCharm_kvmd_completion.jar
-On Pycharm’s main menu, click "File"-> "Manage IDE Settings" -> "Import Settings"
-Select this file and PyCharm will present a dialog with filetypes ticked. Click OK.
-You are done. Restart PyCharm.
-############################## Installation Method ##############################
+On Pycharm’s main menu, click "File"-> "Manage IDE Settings" -> "Import Settings";
+Select this file and PyCharm will present a dialog with filetypes ticked. Click OK;
+You are done. Restart PyCharm;
+
+
+############################## Installation Method ##############################;
