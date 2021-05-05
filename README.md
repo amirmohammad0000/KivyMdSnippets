@@ -2,10 +2,6 @@
 
 
 
-Hello My Name Is amir mohammad koshkian.
-
-
-
 I was working with Kiwi and as you all know IDE PyCharm can not support kivy and highlight kivy code so I searched in Google and after searching in Google I found this address
 https://github.com/amirmohammad0000/kivybits/blob/master/IDE/PyCharm_kv_completion.jar.
 
