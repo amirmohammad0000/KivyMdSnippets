@@ -32,13 +32,3 @@ I have put all the kivyMd code in this file and this plugin can support all kivy
 
 
 This is a bit of kivyMd code
-
-
-
-![Capture](https://user-images.githubusercontent.com/74311184/117192627-34d78900-adf7-11eb-96af-e89b692589d9.PNG)
-
-
-
-
-
-![Capture1](https://user-images.githubusercontent.com/74311184/117192638-37d27980-adf7-11eb-8629-fb1528f1f92d.PNG)
