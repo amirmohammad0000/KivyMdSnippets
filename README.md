@@ -22,6 +22,7 @@ For example, with kivy lang you can create a Label and the program will highligh
 
 
 I have put all the kivyMd code in this file and this plugin can support all kivyMd code so if you see a bug or this plugin could not support the code that is available in kivyMD, message this email "koshkian1000@gmail.com" and fix the problem Tell me, and if you see that code inside the KivyMD site, give me the address of that page and tell me which code is not supported or what is the problem. So if you see a problem, be sure to contact me and tell me where the problem is so that we can create a very good plugin with our help;
+
 Addres Gmail : "koshkian1000@gmail.com";
 
 
