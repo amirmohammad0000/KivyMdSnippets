@@ -51,6 +51,19 @@ This is a bit of kivyMd code;
 
 
 
+![Capture](https://user-images.githubusercontent.com/74311184/117315693-293e9d80-ae9d-11eb-9b3f-47c543613854.PNG)
+
+
+
+
+
+![Capture1](https://user-images.githubusercontent.com/74311184/117315698-2b086100-ae9d-11eb-8df1-c9604d55b2a5.PNG)
+
+
+
+
+
+
 
 
 
