@@ -1,4 +1,4 @@
-# KivyMd-Snippets;
+# KivyMd Snippets;
 
 
 
